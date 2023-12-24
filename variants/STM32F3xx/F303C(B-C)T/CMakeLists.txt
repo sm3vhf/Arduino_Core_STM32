@@ -25,6 +25,7 @@ add_library(variant_bin STATIC EXCLUDE_FROM_ALL
   variant_BLACKPILL_F303CC.cpp
   variant_generic.cpp
   variant_SPARKY_F303CC.cpp
+  variant_NANOVNA.cpp
 )
 target_link_libraries(variant_bin PUBLIC variant_usage)
 

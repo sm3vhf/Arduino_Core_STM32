@@ -3291,6 +3291,15 @@ GenF3.menu.pnum.BLACKPILL_F303CC.build.product_line=STM32F303xC
 GenF3.menu.pnum.BLACKPILL_F303CC.build.variant_h=variant_{build.board}.h
 GenF3.menu.pnum.BLACKPILL_F303CC.build.variant=STM32F3xx/F303C(B-C)T
 
+# NANONVA
+GenF3.menu.pnum.NANOVNA=nanovna
+GenF3.menu.pnum.NANOVNA.upload.maximum_size=262144
+GenF3.menu.pnum.NANOVNA.upload.maximum_data_size=40960
+GenF3.menu.pnum.NANOVNA.build.board=NANOVNA
+GenF3.menu.pnum.NANOVNA.build.product_line=STM32F303xC
+GenF3.menu.pnum.NANOVNA.build.variant_h=variant_{build.board}.h
+GenF3.menu.pnum.NANOVNA.build.variant=STM32F3xx/F303C(B-C)T
+
 # OLIMEXINO_STM32F3
 GenF3.menu.pnum.OLIMEXINO_STM32F3=OLIMEXINO-STM32F3
 GenF3.menu.pnum.OLIMEXINO_STM32F3.upload.maximum_size=262144
